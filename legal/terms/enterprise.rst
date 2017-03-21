@@ -17,10 +17,8 @@ following terms and conditions (the "Agreement").
 1 Term of the Agreement
 =======================
 
-The duration of this Agreement (the “Term”) shall be minimally one year and as specified in writing
+The duration of this Agreement (the “Term”) shall be one year unless otherwise specified in writing
 at the signature of this Agreement, beginning on the date of the signature.
-It is automatically renewed for an equal Term, unless either party provides a written notice of
-termination minimum 30 days before the end of the Term by registered mail to the other party.
 
 .. _definitions:
 
@@ -70,9 +68,6 @@ Policy, as published on `Odoo SA's website <https://www.odoo.com>`_.
 
 Upon expiration or termination of this Agreement, this license is revoked immediately and the
 Customer agrees to stop using the Odoo Enterprise Edition software.
-
-Should the Customer breach the terms of this section, the Customer agrees to pay Odoo SA an extra
-fee equal to 300% of the applicable list price for the actual number of Users.
 
 
 .. _services:
@@ -195,11 +190,7 @@ of the first Term.
 5.2 Renewal charges
 -------------------
 
-Upon renewal as covered in section :ref:`term`, if the per-User charges applied during the previous Term
-are lower than the most current applicable per-User list price, the per-User charges will increase
-by up to 7%, unless Odoo SA provides written notice of a new price to the Customer at least 60 days
-prior to the end of the Term.
-
+Upon renewal as covered in section :ref:`term`, the per-User charges applied shall be agreed between the Customer and Odoo SA.
 
 .. _charges_thirdparty:
 
@@ -244,8 +235,8 @@ is legally obliged to pay or collect Taxes for which the Customer is responsible
 
 The Customer agrees to:
 
-- pay Odoo SA any applicable charges for the Services of the present Agreement, in accordance with
-  the payment conditions specified in the corresponding invoice ;
+- pay Odoo SA any applicable charges for the Services of the present Agreement, whereby the Services
+  have been provided by the Customer, in accordance with the payment conditions specified in the corresponding invoice ;
 - immediately notify Odoo SA when the actual number of Users exceeds the number of Users specified at
   the signature of the Agreement, and in this event, pay the applicable additional fee as described
   in section :ref:`charges_standard`;
@@ -253,10 +244,11 @@ The Customer agrees to:
   that verifies the validity of the Odoo Enterprise Edition usage, as described
   in :ref:`enterprise_access` ;
 - grant Odoo SA the necessary access to verify the validity of the Odoo Enterprise Edition usage
-  upon request (e.g. if the automatic validation is found to be inoperant for the Customer);
-- appoint 1 dedicated Customer contact person for the entire duration of the Agreement;
+  upon written request (e.g. if the automatic validation is found to be inoperant for the Customer);
+- appoint 1 dedicated Customer contact person for the duration of each Term of this Agreement;
 - take all reasonable measures to protect Customer’s files and databases and to ensure Customer’s
-  data is safe and secure, acknowledging that Odoo SA cannot be held liable for any data loss;
+  data is safe and secure, acknowledging that Odoo SA cannot be held liable for any data loss with the exception
+  of Confidential Information as described herein;
 
 
 .. _no_soliciting:
@@ -278,10 +270,10 @@ EUR (€) 30 000.00 (thirty thousand euros).
 6.3 Publicity
 -------------
 
-Except where notified otherwise in writing, each party grants the other a non-transferable,
-non-exclusive, royalty free, worldwide license to reproduce and display the other party’s name,
-logos and trademarks, solely for the purpose of referring to the other party as a customer or
-supplier, on websites, press releases and other marketing materials.
+Each party must specifically grant the other a non-transferable, non-exclusive, royalty free, worldwide license
+if it were to reproduce and display the other party’s name, logos and trademarks, solely for the purpose
+of referring to the other party as a customer or supplier, on websites, press releases and other marketing materials.
+Such grant and the acceptance thereof shall be made in advance in writing.
 
 
 .. _confidentiality:
@@ -315,7 +307,8 @@ breach has not been remedied within 30 calendar days from the written notice of 
 breach, this Agreement may be terminated immediately by the non-breaching Party.
 
 Further, Odoo SA may terminate the Agreement immediately in the event the Customer fails to pay
-the applicable fees for the Services within the due date specified on the corresponding invoice.
+the applicable fees for the Services within the due date specified on the corresponding invoice, in the
+event that all of the Services have been provided.
 
 Surviving Provisions:
   The sections ":ref:`confidentiality`”, “:ref:`disclaimers`”,
@@ -342,10 +335,9 @@ execute the Services in accordance with the generally accepted industry standard
   suitable operating environment;
 - the Customer provides adequate troubleshooting information and access so that Odoo SA can
   identify, reproduce and address problems;
+- all Services by Odoo SA have been provided; or
 - all amounts due to Odoo SA have been paid.
 
-The Customer's sole and exclusive remedy and Odoo SA's only obligation for any breach of this warranty
-is for Odoo SA to resume the execution of the Services at no additional charge.
 
 .. _disclaimers:
 
@@ -366,10 +358,10 @@ Odoo SA does not warrant that the Software complies with any local or internatio
 7.3 Limitation of Liability
 ---------------------------
 
-To the maximum extent permitted by law, the aggregate liability of each party together with its
+With the exception to Confidentiality and Publicity (as aforementioned), and to the maximum extent permitted
+by law, the aggregate liability of each party together with its
 affiliates arising out of or related to this Agreement will not exceed 50% of the total amount
-paid by the Customer under this Agreement during the 12 months immediately preceding the date of the event
-giving rise to such claim. Multiple claims shall not enlarge this limitation.
+of this Agreement giving rise to such claim.
 
 In no event will either party or its affiliates be liable for any indirect, special, exemplary,
 incidental or consequential damages of any kind, including but not limited to loss of revenue,
@@ -402,10 +394,10 @@ cause or causes exist.
 8.1 Governing Law
 -----------------
 
-Both parties agree that the laws of Belgium will apply, should any dispute arise out of or
+Both parties agree that the laws of England & Wales will apply, should any dispute arise out of or
 in connection with this Agreement, without regard to choice or conflict of law principles.
 To the extent that any lawsuit or court proceeding is permitted hereinabove, both
-parties agree to submit to the sole jurisdiction of the Nivelles (Belgium) court for the purpose of
+parties agree to submit to the sole jurisdiction of the English courts for the purpose of
 litigating all disputes.
 
 .. _severability:
